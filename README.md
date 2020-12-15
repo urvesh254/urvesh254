@@ -1,19 +1,3 @@
-<!--
-**urvesh254/urvesh254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 ### Hello World! This is Urveshkumar Patel 👋
 
 <p align="left"> 
@@ -25,7 +9,7 @@ I am a Student pursuing a Bachelor's degree in Computer Engineering 🎒 from L.
 
 ### About Me 🚀
 - 🔭 I’m currently involved in Competitive Programming.
-- 📈 Highly passionate about Data Science and Machine Learning.
+- 📈 Highly passionate to convert ideas into code 🤓.
 - 🤓 I’m looking to collaborate with JAVA and Python 🐍 projects.
 <!-- - 📝 See my [Resume](https://dhhruv.github.io/assets/Dhruv's%20Resume.pdf) to get more info. -->
 
