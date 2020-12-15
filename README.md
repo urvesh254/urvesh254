@@ -5,12 +5,15 @@
 	<img src="https://badges.pufler.dev/repos/urvesh254" alt="urvesh254" /> 
 </p>
 
-I am a Student pursuing a Bachelor's degree in Computer Engineering 🎒 from L.J. Institute of Engineering and Technology who is obsessed with the idea of improving himself and wants a platform to grow and excel. 
+I am a student pursuing a Bachelor's degree in Computer Engineering 🎒 from L.J. Institute of Engineering and Technology who is obsessed with the idea of improving himself and wants a platform to grow and excel. 
 
 ### About Me 🚀
-- 🔭 I’m currently involved in Competitive Programming.
+Here are some ideas to get you started:		
+- 📚 I’m currently started to learning Web Development.
 - 📈 Highly passionate to convert ideas into code 🤓.
+- 🔭 I’m currently involved in Competitive Programming.
 - 🤓 I’m looking to collaborate with JAVA and Python 🐍 projects.
+- 🎯 2020-21 Goles : 🌐 Web Development, 
 <!-- - 📝 See my [Resume](https://dhhruv.github.io/assets/Dhruv's%20Resume.pdf) to get more info. -->
 
 ### Connect with me:
