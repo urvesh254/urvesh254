@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently involved in Competitive Programming.
 - 🤓 I’m looking to collaborate with JAVA and Python 🐍 projects.
 - 🎯 2020-21 Goles : 🌐 Web Development, 
-<!-- - 📝 See my [Resume](https://dhhruv.github.io/assets/Dhruv's%20Resume.pdf) to get more info. -->
+<!-- - 📝 See my [Resume]() to get more info. -->
 
 ### Connect with me:
 
@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 
 
 <p align="center">
- <h4 align="center">Show some ❤️ by starring some of the repositories!</h4>
+<h4 align="center">Show some ❤️ by starring some of the <a href="https://github.com/urvesh254?tab=repositories"> repositories!</a></h4>
 </p>
