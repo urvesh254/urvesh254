@@ -1,4 +1,4 @@
-### Hello World! This is Urveshkumar Patel 👋
+### Hello World! This is Urvesh 👋
 
 <p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=urvesh254" alt="urvesh254" /> 
