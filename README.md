@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📈 Highly passionate to convert ideas into code 🤓.
 - 🔭 I’m currently involved in Competitive Programming.
 - 🤓 I’m looking to collaborate with JAVA and Python 🐍 projects.
-- 🎯 2020-21 Goles : 🌐 Web Development, 
 <!-- - 📝 See my [Resume]() to get more info. -->
 
 ### Connect with me:
