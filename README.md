@@ -1,9 +1,8 @@
 ### Hello World! This is Urvesh 👋
 
 <p align="left"> 
-	<img src="https://komarev.com/ghpvc/?username=urvesh254" alt="urvesh254" /> 
+	<img src="https://komarev.com/ghpvc/?username=urvesh254&color=blue" alt="urvesh254" /> 
 </p>
-
 I am a student pursuing a Bachelor's degree in Computer Engineering 🎒 from L.J. Institute of Engineering and Technology who is obsessed with the idea of improving himself and wants a platform to grow and excel. 
 
 ### About Me 🚀
